@@ -1,0 +1,8 @@
+{
+    "users": [
+        { "id": "1", "firstName": "Chandrakala", "age": 23},
+        { "id": "2", "firstName": "Sowmya", "age": 22},
+        { "id": "3", "firstName": "Amrutha", "age": 21},
+        { "id": "4", "firstName": "Prathima", "age": 20}
+    ]
+}
